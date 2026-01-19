@@ -83,7 +83,7 @@ section.main_wrap {
     position: relative;
     overflow: hidden;
 }
-section.back{
+.back{
     background: url(../img/main/book.jpg) no-repeat;
     background-size: cover;
     width: 100%;
